@@ -16,6 +16,8 @@
   ],
   "dependencies": {
     "angular": "1.6.7",
-    "bootstrap": "https://github.com/twbs/bootstrap.git#^4.0.0"
+    "bootstrap": "https://github.com/twbs/bootstrap.git#^4.0.0",
+    "normalize.css": "https://github.com/necolas/normalize.css.git#^8.0.0",
+    "jquery": "^3.3.1"
   }
 }
